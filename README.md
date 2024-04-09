@@ -1,0 +1,1 @@
+# auto-google-ranking-checker
